@@ -6,3 +6,5 @@ Horizon is an open-source, real-time community-management framework built with [
 - Download or clone Horizon into /some/path
 - cd /some/path
 - Run `mrt`
+
+Kevin was here
